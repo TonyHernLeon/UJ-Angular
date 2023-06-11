@@ -1,11 +1,11 @@
-# Universidad_Java-Angular
-Ejercicios de la universidad Java de la sección Angular
+# Curso de Angular / Universidad Java
+Ejercicios de la universidad Java de la sección Angular.
 **Índice**   
 1. [Software Necesario](#id1)
 2. [Comandos Angular](#id2)
 ## Software Necesario<a name="id1"></a>
-· Node.JS -> https://nodejs.org/en \n
-· Angular -> sudo npm install -g @angular/cli \n
+* _**Node.JS**_ -> https://nodejs.org/en
+* _**Angular**_ -> sudo npm install -g @angular/cli
 ## Comandos Angular<a name="id2"></a>
-· Crear proyecto -> ng new nombreProyecto
-· Arrancar proyecto (-o, se abre explorador automaticamente) -> ng serve -o 
+* _**Crear proyecto**_ -> ng new nombreProyecto
+* _**Arrancar proyecto (-o, se abre explorador automaticamente)**_ -> ng serve -o 

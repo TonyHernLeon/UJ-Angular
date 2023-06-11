@@ -1,6 +1,6 @@
 # Curso de Angular / Universidad Java
 Ejercicios de la universidad Java de la sección Angular.
-**Índice**   
+## Indice   
 1. [Software Necesario](#id1)
 2. [Comandos Angular](#id2)
 ## Software Necesario<a name="id1"></a>
@@ -9,5 +9,5 @@ Ejercicios de la universidad Java de la sección Angular.
 ## Comandos Angular<a name="id2"></a>
 * _**Crear proyecto**_ -> ng new nombreProyecto
 * _**Arrancar proyecto (-o, se abre explorador automaticamente)**_ -> ng serve -o
-* -**Saber puertos**_ -> sudo lsof -i :numeroPuerto
-* -**Cerrar Puerto**_ -> kill PID 
+* _**Saber puertos**_ -> sudo lsof -i :numeroPuerto
+* _**Cerrar Puerto**_ -> kill PID 

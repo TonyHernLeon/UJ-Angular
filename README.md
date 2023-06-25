@@ -13,3 +13,5 @@ Ejercicios de la universidad Java de la sección Angular.
 * _**Saber puertos**_ -> sudo lsof -i :numeroPuerto
 * _**Cerrar Puerto**_ -> kill PID 
 ## Organigrama<a name="id3"></a>
+* _**node_modules**_ -> Carpeta donde se almacenan los modulos que se modifican en nuestro proyecto Angular.
+* _**src**_ -> Carpeta de código fuente. 
